@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0011",
+  "subtipo": "subtracao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 7,5 - 2,2?",
+    "en": "What is 7.5 - 2.2?"
+  },
+  "opcoes": [
+    "5,3",
+    "6,3",
+    "9,7",
+    "2,2"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "7,5 - 2,2 = 5,3.",
+    "en": "7.5 - 2.2 = 5.3."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

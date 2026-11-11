@@ -1,0 +1,30 @@
+{
+  "id": "prob-cal-0021",
+  "subtipo": "complementar",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um saco tem 3 vermelhas e 7 brancas. Probabilidade de NAO tirar vermelha?",
+    "en": "A bag has 3 red and 7 white. Probability of NOT red?"
+  },
+  "opcoes": [
+    "8/10",
+    "7/10",
+    "3/10",
+    "3/7"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "7 em 10: 7/10.",
+    "en": "7 out of 10: 7/10."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ]
+}

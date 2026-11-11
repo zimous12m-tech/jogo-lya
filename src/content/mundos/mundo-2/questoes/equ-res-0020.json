@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0020",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve 2x - 6 = 12.",
+    "en": "Solve 2x - 6 = 12."
+  },
+  "opcoes": [
+    "12",
+    "10",
+    "18",
+    "9"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "2x = 18, logo x = 9.",
+    "en": "2x = 18, so x = 9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

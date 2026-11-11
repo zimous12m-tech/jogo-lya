@@ -1,0 +1,20 @@
+{
+  "id": "mundo-3-nivel-6",
+  "worldId": "mundo-3",
+  "titulo": {
+    "pt-PT": "Boss",
+    "en": "Boss"
+  },
+  "boss": true,
+  "tempoSugerido": 160,
+  "questionIds": [
+    "pot-cal-0017",
+    "pot-cal-0018",
+    "pot-cal-0019",
+    "pot-cal-0020",
+    "pot-cal-0021",
+    "pot-cal-0022",
+    "pot-cal-0023",
+    "pot-cal-0024"
+  ]
+}

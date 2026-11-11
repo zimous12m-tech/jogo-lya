@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0008",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 2,4 + 3,6?",
+    "en": "What is 2.4 + 3.6?"
+  },
+  "opcoes": [
+    "6",
+    "7",
+    "8",
+    "1,2"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Alinha as virgulas: 2,4 + 3,6 = 6.",
+    "en": "Line up the points: 2.4 + 3.6 = 6."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

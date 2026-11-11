@@ -1,0 +1,35 @@
+{
+  "id": "per-cal-0012",
+  "subtipo": "desconto",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um casaco custa 60 EUR com 10 % de desconto. Quanto pagas?",
+    "en": "A coat costs 60 EUR with 10 % off. How much do you pay?"
+  },
+  "visual": {
+    "tipo": "desconto",
+    "precoCentimos": 6000,
+    "percentagem": 10
+  },
+  "opcoes": [
+    "54",
+    "66",
+    "6",
+    "59"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "60 - 6 = 54 EUR.",
+    "en": "60 - 6 = 54 EUR."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

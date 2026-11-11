@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0021",
+  "subtipo": "area",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um triangulo tem base 4 cm e altura 7 cm. Qual e a area?",
+    "en": "A triangle has base 4 cm and height 7 cm. What is the area?"
+  },
+  "opcoes": [
+    "15",
+    "28",
+    "14",
+    "11"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "4 x 7 / 2 = 14 cm2.",
+    "en": "4 x 7 / 2 = 14 cm2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

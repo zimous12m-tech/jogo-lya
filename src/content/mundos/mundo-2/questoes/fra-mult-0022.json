@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0022",
+  "subtipo": "contexto",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um casaco custa 32 EUR com 5/8 de desconto. Quanto poupas?",
+    "en": "A coat costs 32 EUR with 5/8 off. How much do you save?"
+  },
+  "opcoes": [
+    "4",
+    "21",
+    "12",
+    "20"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "5/8 de 32 = 20 EUR.",
+    "en": "5/8 of 32 = 20 EUR."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

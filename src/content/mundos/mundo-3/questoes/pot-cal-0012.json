@@ -1,0 +1,30 @@
+{
+  "id": "pot-cal-0012",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 6 ao cubo?",
+    "en": "What is 6 cubed?"
+  },
+  "opcoes": [
+    "18",
+    "216",
+    "36",
+    "222"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "6 x 6 x 6 = 216.",
+    "en": "6 x 6 x 6 = 216."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ]
+}

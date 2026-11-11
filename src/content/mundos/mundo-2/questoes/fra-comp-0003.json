@@ -1,0 +1,41 @@
+{
+  "id": "fra-comp-0003",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e maior: 2/4 ou 2/8?",
+    "en": "Which is bigger: 2/4 or 2/8?"
+  },
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 2,
+      "d": 4
+    },
+    "b": {
+      "n": 2,
+      "d": 8
+    }
+  },
+  "opcoes": [
+    "3/4",
+    "2/9",
+    "2/8",
+    "2/4"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Mesmo numerador, menor denominador e maior: 2/4.",
+    "en": "Same numerator, smaller denominator is bigger: 2/4."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

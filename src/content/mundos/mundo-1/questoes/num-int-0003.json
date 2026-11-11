@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0003",
+  "subtipo": "soma",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 12 - 5?",
+    "en": "What is 12 - 5?"
+  },
+  "opcoes": [
+    "-7",
+    "7",
+    "8",
+    "17"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "12 - 5 = 7.",
+    "en": "12 - 5 = 7."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

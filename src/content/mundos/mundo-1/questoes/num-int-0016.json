@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0016",
+  "subtipo": "simetrico",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e o simetrico de -23?",
+    "en": "What is the opposite of -23?"
+  },
+  "opcoes": [
+    "24",
+    "-23",
+    "0",
+    "23"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O simetrico e 23.",
+    "en": "The opposite is 23."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

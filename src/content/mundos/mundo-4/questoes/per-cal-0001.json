@@ -1,0 +1,30 @@
+{
+  "id": "per-cal-0001",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 25 % de 120?",
+    "en": "What is 25 % of 120?"
+  },
+  "opcoes": [
+    "35",
+    "30",
+    "3000",
+    "4.8"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "120 / 100 x 25 = 30.",
+    "en": "120 / 100 x 25 = 30."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fra-comp-0005",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e maior: 2/5 ou 2/10?",
+    "en": "Which is bigger: 2/5 or 2/10?"
+  },
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 2,
+      "d": 5
+    },
+    "b": {
+      "n": 2,
+      "d": 10
+    }
+  },
+  "opcoes": [
+    "2/5",
+    "3/5",
+    "2/11",
+    "2/10"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Mesmo numerador, menor denominador e maior: 2/5.",
+    "en": "Same numerator, smaller denominator is bigger: 2/5."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

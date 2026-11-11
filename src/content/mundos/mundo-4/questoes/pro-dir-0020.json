@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0020",
+  "subtipo": "escala",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "No mapa, 3 cm representam 3 km. Quantos km representam 6 cm?",
+    "en": "On the map, 3 cm is 3 km. How many km is 6 cm?"
+  },
+  "opcoes": [
+    "3",
+    "6",
+    "12",
+    "7"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O dobro: 6 km.",
+    "en": "Double: 6 km."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

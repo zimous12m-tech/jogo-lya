@@ -1,0 +1,30 @@
+{
+  "id": "fra-comp-0021",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual esta mais perto de 1: 7/8 ou 1/2?",
+    "en": "Which is closer to 1: 7/8 or 1/2?"
+  },
+  "opcoes": [
+    "7/9",
+    "6/8",
+    "7/8",
+    "1/2"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "7/8 so precisa de 1/8 para chegar a 1.",
+    "en": "7/8 needs only 1/8 to reach 1."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

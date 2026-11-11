@@ -1,0 +1,17 @@
+{
+  "id": "mundo-3-nivel-1",
+  "worldId": "mundo-3",
+  "titulo": {
+    "pt-PT": "Nivel 1",
+    "en": "Level 1"
+  },
+  "boss": false,
+  "tempoSugerido": 165,
+  "questionIds": [
+    "geo-are-0001",
+    "geo-are-0002",
+    "geo-are-0003",
+    "geo-are-0004",
+    "geo-are-0005"
+  ]
+}

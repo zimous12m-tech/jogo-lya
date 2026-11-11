@@ -1,0 +1,20 @@
+{
+  "id": "mundo-2-nivel-6",
+  "worldId": "mundo-2",
+  "titulo": {
+    "pt-PT": "Boss",
+    "en": "Boss"
+  },
+  "boss": true,
+  "tempoSugerido": 160,
+  "questionIds": [
+    "fra-mult-0017",
+    "fra-mult-0018",
+    "fra-mult-0019",
+    "fra-mult-0020",
+    "fra-mult-0021",
+    "fra-mult-0022",
+    "fra-mult-0023",
+    "fra-mult-0024"
+  ]
+}

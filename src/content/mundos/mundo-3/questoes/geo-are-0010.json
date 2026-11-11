@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0010",
+  "subtipo": "area",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Um quadrado tem 10 cm de lado. Qual e a area?",
+    "en": "A square has 10 cm sides. What is the area?"
+  },
+  "opcoes": [
+    "110",
+    "20",
+    "100",
+    "40"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "10 x 10 = 100 cm2.",
+    "en": "10 x 10 = 100 cm2."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

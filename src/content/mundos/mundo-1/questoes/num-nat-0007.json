@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0007",
+  "subtipo": "valor-posicional",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "No numero 658273, qual e o valor do algarismo 5?",
+    "en": "In the number 658273, what is the value of the digit 5?"
+  },
+  "opcoes": [
+    "500000",
+    "5",
+    "60000",
+    "50000"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 5 vale 50000 porque esta nessa ordem.",
+    "en": "The 5 is worth 50000 because of its place."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

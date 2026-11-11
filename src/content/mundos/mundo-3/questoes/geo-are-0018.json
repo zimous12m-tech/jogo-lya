@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0018",
+  "subtipo": "area",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Um triangulo tem base 10 cm e altura 3 cm. Qual e a area?",
+    "en": "A triangle has base 10 cm and height 3 cm. What is the area?"
+  },
+  "opcoes": [
+    "30",
+    "16",
+    "15",
+    "13"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "10 x 3 / 2 = 15 cm2.",
+    "en": "10 x 3 / 2 = 15 cm2."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

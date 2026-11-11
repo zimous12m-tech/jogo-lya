@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0004",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 5,4 + 6,6?",
+    "en": "What is 5.4 + 6.6?"
+  },
+  "opcoes": [
+    "14",
+    "13",
+    "12",
+    "1,2"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Alinha as virgulas: 5,4 + 6,6 = 12.",
+    "en": "Line up the points: 5.4 + 6.6 = 12."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

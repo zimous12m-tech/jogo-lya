@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0010",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Resolve 4x + 2 = 26.",
+    "en": "Solve 4x + 2 = 26."
+  },
+  "opcoes": [
+    "6",
+    "7",
+    "24",
+    "26"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "4x = 24, logo x = 6.",
+    "en": "4x = 24, so x = 6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

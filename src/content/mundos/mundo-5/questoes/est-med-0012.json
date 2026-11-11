@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0012",
+  "subtipo": "moda",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e a moda de 9, 9, 14, 18?",
+    "en": "What is the mode of 9, 9, 14, 18?"
+  },
+  "opcoes": [
+    "14",
+    "18",
+    "9",
+    "10"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "A moda e 9, o valor mais repetido.",
+    "en": "The mode is 9, the most frequent."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

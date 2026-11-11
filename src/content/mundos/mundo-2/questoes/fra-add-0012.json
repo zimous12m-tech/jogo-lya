@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0012",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 1/3 + 7/9?",
+    "en": "What is 1/3 + 7/9?"
+  },
+  "opcoes": [
+    "10/9",
+    "8/12",
+    "8/9",
+    "11/9"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Reduz ao mesmo denominador: 10/9.",
+    "en": "Use a common denominator: 10/9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

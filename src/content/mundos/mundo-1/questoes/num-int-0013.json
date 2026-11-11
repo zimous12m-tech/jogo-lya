@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0013",
+  "subtipo": "simetrico",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e o simetrico de -2?",
+    "en": "What is the opposite of -2?"
+  },
+  "opcoes": [
+    "2",
+    "3",
+    "0",
+    "-2"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "O simetrico e 2.",
+    "en": "The opposite is 2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

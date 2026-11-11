@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0002",
+  "subtipo": "soma",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 1 - 12?",
+    "en": "What is 1 - 12?"
+  },
+  "opcoes": [
+    "-10",
+    "13",
+    "-11",
+    "11"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "1 - 12 = -11.",
+    "en": "1 - 12 = -11."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0004",
+  "subtipo": "soma",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 5 - 13?",
+    "en": "What is 5 - 13?"
+  },
+  "opcoes": [
+    "-7",
+    "8",
+    "-8",
+    "18"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "5 - 13 = -8.",
+    "en": "5 - 13 = -8."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

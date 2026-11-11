@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0017",
+  "subtipo": "divisibilidade",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Qual destes numeros e divisivel por 3?",
+    "en": "Which of these numbers is divisible by 3?"
+  },
+  "opcoes": [
+    "244",
+    "243",
+    "246",
+    "245"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "243 / 3 = 81, sem resto.",
+    "en": "243 / 3 = 81, no remainder."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

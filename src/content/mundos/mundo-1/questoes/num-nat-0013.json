@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0013",
+  "subtipo": "arredondamento",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Arredonda 1095 as centenas.",
+    "en": "Round 1095 to the nearest hundred."
+  },
+  "opcoes": [
+    "1200",
+    "1000",
+    "1100",
+    "1095"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O resultado e 1100.",
+    "en": "The result is 1100."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

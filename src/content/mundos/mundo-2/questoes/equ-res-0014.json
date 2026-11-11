@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0014",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve 5x + 2 = 27.",
+    "en": "Solve 5x + 2 = 27."
+  },
+  "opcoes": [
+    "6",
+    "25",
+    "5",
+    "27"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "5x = 25, logo x = 5.",
+    "en": "5x = 25, so x = 5."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

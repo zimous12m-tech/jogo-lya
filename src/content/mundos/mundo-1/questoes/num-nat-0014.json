@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0014",
+  "subtipo": "arredondamento",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Arredonda 4967 as centenas.",
+    "en": "Round 4967 to the nearest hundred."
+  },
+  "opcoes": [
+    "5100",
+    "4900",
+    "4967",
+    "5000"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O resultado e 5000.",
+    "en": "The result is 5000."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

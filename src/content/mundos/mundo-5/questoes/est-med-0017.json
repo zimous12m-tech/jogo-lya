@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0017",
+  "subtipo": "mediana",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Qual e a mediana de 4, 6, 8, 10, 12?",
+    "en": "What is the median of 4, 6, 8, 10, 12?"
+  },
+  "opcoes": [
+    "12",
+    "8",
+    "9",
+    "4"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O valor do meio e 8.",
+    "en": "The middle value is 8."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0008",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve x + 3 = 14.",
+    "en": "Solve x + 3 = 14."
+  },
+  "opcoes": [
+    "14",
+    "17",
+    "11",
+    "12"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "x = 14 - 3 = 11.",
+    "en": "x = 14 - 3 = 11."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

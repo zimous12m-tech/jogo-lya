@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0004",
+  "subtipo": "direta",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Se 3 cadernos custam 18 EUR, quanto custam 6?",
+    "en": "If 3 notebooks cost 18 EUR, how much do 6 cost?"
+  },
+  "opcoes": [
+    "18",
+    "42",
+    "36",
+    "30"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Um custa 6 EUR, 6 custam 36 EUR.",
+    "en": "One costs 6 EUR, 6 cost 36 EUR."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

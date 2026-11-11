@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0005",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve x + 6 = 17.",
+    "en": "Solve x + 6 = 17."
+  },
+  "opcoes": [
+    "12",
+    "17",
+    "23",
+    "11"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "x = 17 - 6 = 11.",
+    "en": "x = 17 - 6 = 11."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

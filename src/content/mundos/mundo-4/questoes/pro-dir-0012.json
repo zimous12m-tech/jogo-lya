@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0012",
+  "subtipo": "receita",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Uma receita para 4 leva 184 g. Quantos g para 8?",
+    "en": "A recipe for 4 uses 184 g. How many g for 8?"
+  },
+  "opcoes": [
+    "378",
+    "368",
+    "552",
+    "184"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Por pessoa 46 g, para 8 sao 368 g.",
+    "en": "Per person 46 g, for 8 it is 368 g."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

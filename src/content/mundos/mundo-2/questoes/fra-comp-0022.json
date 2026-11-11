@@ -1,0 +1,30 @@
+{
+  "id": "fra-comp-0022",
+  "subtipo": "comparacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual esta mais perto de 1: 5/6 ou 1/2?",
+    "en": "Which is closer to 1: 5/6 or 1/2?"
+  },
+  "opcoes": [
+    "1/2",
+    "5/7",
+    "4/6",
+    "5/6"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "5/6 so precisa de 1/6 para chegar a 1.",
+    "en": "5/6 needs only 1/6 to reach 1."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

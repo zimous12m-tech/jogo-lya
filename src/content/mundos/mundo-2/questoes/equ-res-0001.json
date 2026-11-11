@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0001",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Resolve x + 15 = 24.",
+    "en": "Solve x + 15 = 24."
+  },
+  "opcoes": [
+    "24",
+    "9",
+    "10",
+    "39"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "x = 24 - 15 = 9.",
+    "en": "x = 24 - 15 = 9."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

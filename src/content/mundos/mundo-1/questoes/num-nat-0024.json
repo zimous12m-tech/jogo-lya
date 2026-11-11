@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0024",
+  "subtipo": "divisibilidade",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual destes numeros e divisivel por 3?",
+    "en": "Which of these numbers is divisible by 3?"
+  },
+  "opcoes": [
+    "43",
+    "42",
+    "45",
+    "44"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "42 / 3 = 14, sem resto.",
+    "en": "42 / 3 = 14, no remainder."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

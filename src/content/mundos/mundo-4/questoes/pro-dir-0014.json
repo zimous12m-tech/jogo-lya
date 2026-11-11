@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0014",
+  "subtipo": "receita",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Uma receita para 3 leva 225 g. Quantos g para 6?",
+    "en": "A recipe for 3 uses 225 g. How many g for 6?"
+  },
+  "opcoes": [
+    "460",
+    "675",
+    "225",
+    "450"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Por pessoa 75 g, para 6 sao 450 g.",
+    "en": "Per person 75 g, for 6 it is 450 g."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

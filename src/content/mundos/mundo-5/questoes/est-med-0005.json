@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0005",
+  "subtipo": "media",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e a media de 20, 9, 19, 20?",
+    "en": "What is the mean of 20, 9, 19, 20?"
+  },
+  "opcoes": [
+    "19",
+    "17",
+    "68",
+    "18"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "68 / 4 = 17.",
+    "en": "68 / 4 = 17."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

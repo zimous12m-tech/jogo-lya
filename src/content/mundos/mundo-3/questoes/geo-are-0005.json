@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0005",
+  "subtipo": "area",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um retangulo tem 5 cm por 8 cm. Qual e a area?",
+    "en": "A rectangle is 5 cm by 8 cm. What is the area?"
+  },
+  "opcoes": [
+    "26",
+    "13",
+    "45",
+    "40"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "5 x 8 = 40 cm2.",
+    "en": "5 x 8 = 40 cm2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

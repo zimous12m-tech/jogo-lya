@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0003",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 1/5 + 4/5?",
+    "en": "What is 1/5 + 4/5?"
+  },
+  "opcoes": [
+    "5/5",
+    "6/5",
+    "5/10",
+    "4/5"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Somam-se os numeradores: 5/5.",
+    "en": "Add the numerators: 5/5."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

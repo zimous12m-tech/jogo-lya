@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0002",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Resolve x + 13 = 19.",
+    "en": "Solve x + 13 = 19."
+  },
+  "opcoes": [
+    "7",
+    "6",
+    "32",
+    "19"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "x = 19 - 13 = 6.",
+    "en": "x = 19 - 13 = 6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "per-cal-0005",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 50 % de 120?",
+    "en": "What is 50 % of 120?"
+  },
+  "opcoes": [
+    "6000",
+    "2.4",
+    "65",
+    "60"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "120 / 100 x 50 = 60.",
+    "en": "120 / 100 x 50 = 60."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0018",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Resolve 6x - 6 = 6.",
+    "en": "Solve 6x - 6 = 6."
+  },
+  "opcoes": [
+    "12",
+    "3",
+    "2",
+    "6"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "6x = 12, logo x = 2.",
+    "en": "6x = 12, so x = 2."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

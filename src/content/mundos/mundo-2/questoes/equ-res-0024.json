@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0024",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve 5x - 1 = 34.",
+    "en": "Solve 5x - 1 = 34."
+  },
+  "opcoes": [
+    "34",
+    "8",
+    "35",
+    "7"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "5x = 35, logo x = 7.",
+    "en": "5x = 35, so x = 7."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

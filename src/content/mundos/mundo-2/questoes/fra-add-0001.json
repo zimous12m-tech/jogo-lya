@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0001",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 7/10 + 3/10?",
+    "en": "What is 7/10 + 3/10?"
+  },
+  "opcoes": [
+    "10/20",
+    "10/10",
+    "21/10",
+    "11/10"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Somam-se os numeradores: 10/10.",
+    "en": "Add the numerators: 10/10."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

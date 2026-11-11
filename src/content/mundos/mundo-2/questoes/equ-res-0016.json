@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0016",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve 5x + 4 = 19.",
+    "en": "Solve 5x + 4 = 19."
+  },
+  "opcoes": [
+    "19",
+    "4",
+    "3",
+    "15"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "5x = 15, logo x = 3.",
+    "en": "5x = 15, so x = 3."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

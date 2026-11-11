@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0011",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve 6x + 4 = 58.",
+    "en": "Solve 6x + 4 = 58."
+  },
+  "opcoes": [
+    "54",
+    "9",
+    "58",
+    "10"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "6x = 54, logo x = 9.",
+    "en": "6x = 54, so x = 9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0015",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve 4x + 5 = 41.",
+    "en": "Solve 4x + 5 = 41."
+  },
+  "opcoes": [
+    "41",
+    "36",
+    "9",
+    "10"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "4x = 36, logo x = 9.",
+    "en": "4x = 36, so x = 9."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

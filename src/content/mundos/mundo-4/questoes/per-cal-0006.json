@@ -1,0 +1,30 @@
+{
+  "id": "per-cal-0006",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 25 % de 40?",
+    "en": "What is 25 % of 40?"
+  },
+  "opcoes": [
+    "10",
+    "15",
+    "1.6",
+    "1000"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "40 / 100 x 25 = 10.",
+    "en": "40 / 100 x 25 = 10."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

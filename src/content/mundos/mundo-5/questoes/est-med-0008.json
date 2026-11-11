@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0008",
+  "subtipo": "media",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e a media de 14, 13, 16, 9?",
+    "en": "What is the mean of 14, 13, 16, 9?"
+  },
+  "opcoes": [
+    "52",
+    "14",
+    "13",
+    "15"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "52 / 4 = 13.",
+    "en": "52 / 4 = 13."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

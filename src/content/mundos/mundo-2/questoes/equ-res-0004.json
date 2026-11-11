@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0004",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve x + 19 = 33.",
+    "en": "Solve x + 19 = 33."
+  },
+  "opcoes": [
+    "33",
+    "14",
+    "15",
+    "52"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "x = 33 - 19 = 14.",
+    "en": "x = 33 - 19 = 14."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

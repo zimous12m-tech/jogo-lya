@@ -1,0 +1,35 @@
+{
+  "id": "fra-add-0019",
+  "subtipo": "contexto",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "O Tomas comeu 8/10 de um bolo e a irma 1/10. Que fracao comeram juntos?",
+    "en": "Tom ate 8/10 of a cake and his sister 1/10. What fraction together?"
+  },
+  "visual": {
+    "tipo": "pizza",
+    "fatias": 10,
+    "comidas": 9
+  },
+  "opcoes": [
+    "9/20",
+    "9/10",
+    "10/10",
+    "8/10"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "8/10 + 1/10 = 9/10.",
+    "en": "8/10 + 1/10 = 9/10."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

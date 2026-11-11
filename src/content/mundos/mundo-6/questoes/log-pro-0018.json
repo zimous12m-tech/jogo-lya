@@ -1,0 +1,30 @@
+{
+  "id": "log-pro-0018",
+  "subtipo": "raciocinio",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Um caracol sobe 4 m por dia e escorrega 3 m por noite. Quantos dias para sair de 8 m?",
+    "en": "A snail climbs 4 m a day and slips 3 m a night. How many days for 8 m?"
+  },
+  "opcoes": [
+    "4",
+    "8",
+    "6",
+    "5"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Avanca 1 m por dia. Sai ao dia 5.",
+    "en": "It gains 1 m a day. It leaves on day 5."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "log-pro",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "logica",
+  "curriculo": [
+    "PT_6ano_MAT_LOGICA"
+  ]
+}

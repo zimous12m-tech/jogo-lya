@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0016",
+  "subtipo": "arredondamento",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Arredonda 6007 as centenas.",
+    "en": "Round 6007 to the nearest hundred."
+  },
+  "opcoes": [
+    "5900",
+    "6000",
+    "6007",
+    "6100"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O resultado e 6000.",
+    "en": "The result is 6000."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

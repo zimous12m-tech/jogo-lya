@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0019",
+  "subtipo": "mediana",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e a mediana de 10, 12, 14, 16, 18?",
+    "en": "What is the median of 10, 12, 14, 16, 18?"
+  },
+  "opcoes": [
+    "14",
+    "15",
+    "18",
+    "10"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "O valor do meio e 14.",
+    "en": "The middle value is 14."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

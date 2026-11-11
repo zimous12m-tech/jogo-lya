@@ -1,0 +1,30 @@
+{
+  "id": "prob-cal-0012",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um saco tem 6 verdes e 8 azuis. Probabilidade de tirar verde?",
+    "en": "A bag has 6 green and 8 blue. Probability of green?"
+  },
+  "opcoes": [
+    "7/14",
+    "6/14",
+    "6/8",
+    "8/14"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "6 casos favoraveis em 14: 6/14.",
+    "en": "6 favourable in 14: 6/14."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ]
+}

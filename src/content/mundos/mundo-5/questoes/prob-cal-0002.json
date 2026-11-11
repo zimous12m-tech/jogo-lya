@@ -1,0 +1,30 @@
+{
+  "id": "prob-cal-0002",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Lancam um dado equilibrado. Qual e a probabilidade de sair 6?",
+    "en": "A fair die is rolled. What is the probability of rolling 6?"
+  },
+  "opcoes": [
+    "1/6",
+    "5/6",
+    "6/1",
+    "1/5"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Um caso favoravel em 6: 1/6.",
+    "en": "One favourable in 6: 1/6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ]
+}

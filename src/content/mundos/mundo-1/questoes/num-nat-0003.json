@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0003",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "No numero 23678, qual e o valor do algarismo 7?",
+    "en": "In the number 23678, what is the value of the digit 7?"
+  },
+  "opcoes": [
+    "70",
+    "7",
+    "80",
+    "700"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "O 7 vale 70 porque esta nessa ordem.",
+    "en": "The 7 is worth 70 because of its place."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

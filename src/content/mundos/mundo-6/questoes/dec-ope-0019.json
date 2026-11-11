@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0019",
+  "subtipo": "multiplicacao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 0,5 x 8?",
+    "en": "What is 0.5 x 8?"
+  },
+  "opcoes": [
+    "4",
+    "5",
+    "40",
+    "8,5"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "0,5 x 8 = 4.",
+    "en": "0.5 x 8 = 4."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0019",
+  "subtipo": "escala",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "No mapa, 5 cm representam 5 km. Quantos km representam 10 cm?",
+    "en": "On the map, 5 cm is 5 km. How many km is 10 cm?"
+  },
+  "opcoes": [
+    "5",
+    "11",
+    "10",
+    "20"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O dobro: 10 km.",
+    "en": "Double: 10 km."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

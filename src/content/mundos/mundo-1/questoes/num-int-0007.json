@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0007",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 17 - 35?",
+    "en": "What is 17 - 35?"
+  },
+  "opcoes": [
+    "52",
+    "-18",
+    "18",
+    "-17"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "17 - 35 = -18.",
+    "en": "17 - 35 = -18."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

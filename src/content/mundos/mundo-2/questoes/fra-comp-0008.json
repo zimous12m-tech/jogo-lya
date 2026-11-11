@@ -1,0 +1,41 @@
+{
+  "id": "fra-comp-0008",
+  "subtipo": "comparacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e maior: 1/4 ou 1/8?",
+    "en": "Which is bigger: 1/4 or 1/8?"
+  },
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 1,
+      "d": 4
+    },
+    "b": {
+      "n": 1,
+      "d": 8
+    }
+  },
+  "opcoes": [
+    "1/4",
+    "1/9",
+    "2/4",
+    "1/8"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Mesmo numerador, menor denominador e maior: 1/4.",
+    "en": "Same numerator, smaller denominator is bigger: 1/4."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

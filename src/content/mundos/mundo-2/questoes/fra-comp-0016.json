@@ -1,0 +1,30 @@
+{
+  "id": "fra-comp-0016",
+  "subtipo": "comparacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e maior: 7/9 ou 8/9?",
+    "en": "Which is bigger: 7/9 or 8/9?"
+  },
+  "opcoes": [
+    "9/9",
+    "7/9",
+    "8/9",
+    "7/10"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Mesmo denominador, maior numerador: 8/9.",
+    "en": "Same denominator, bigger numerator: 8/9."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

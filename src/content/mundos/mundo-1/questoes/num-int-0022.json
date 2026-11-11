@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0022",
+  "subtipo": "deslocamento",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um elevador esta no piso -2 e sobe 6. Em que piso fica?",
+    "en": "A lift is on floor -2 and goes up 6. Which floor?"
+  },
+  "opcoes": [
+    "-8",
+    "-4",
+    "4",
+    "5"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "-2 + 6 = 4.",
+    "en": "-2 + 6 = 4."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

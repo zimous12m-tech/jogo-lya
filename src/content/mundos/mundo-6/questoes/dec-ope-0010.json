@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0010",
+  "subtipo": "subtracao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 6,7 - 2,9?",
+    "en": "What is 6.7 - 2.9?"
+  },
+  "opcoes": [
+    "3,8",
+    "2,9",
+    "4,8",
+    "9,6"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "6,7 - 2,9 = 3,8.",
+    "en": "6.7 - 2.9 = 3.8."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

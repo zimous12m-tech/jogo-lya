@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0006",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve x + 4 = 11.",
+    "en": "Solve x + 4 = 11."
+  },
+  "opcoes": [
+    "8",
+    "11",
+    "15",
+    "7"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "x = 11 - 4 = 7.",
+    "en": "x = 11 - 4 = 7."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0018",
+  "subtipo": "divisibilidade",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Qual destes numeros e divisivel por 3?",
+    "en": "Which of these numbers is divisible by 3?"
+  },
+  "opcoes": [
+    "156",
+    "157",
+    "159",
+    "158"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "156 / 3 = 52, sem resto.",
+    "en": "156 / 3 = 52, no remainder."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

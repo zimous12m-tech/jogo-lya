@@ -1,0 +1,30 @@
+{
+  "id": "per-cal-0022",
+  "subtipo": "contexto",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "A Rita tinha 120 EUR e gastou 30 %. Com quanto ficou?",
+    "en": "Rita had 120 EUR and spent 30 %. How much is left?"
+  },
+  "opcoes": [
+    "84",
+    "36",
+    "89",
+    "120"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Gastou 36, ficou com 84 EUR.",
+    "en": "She spent 36, she kept 84 EUR."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

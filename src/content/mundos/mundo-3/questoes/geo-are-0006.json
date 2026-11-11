@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0006",
+  "subtipo": "area",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um retangulo tem 17 cm por 20 cm. Qual e a area?",
+    "en": "A rectangle is 17 cm by 20 cm. What is the area?"
+  },
+  "opcoes": [
+    "340",
+    "74",
+    "357",
+    "37"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "17 x 20 = 340 cm2.",
+    "en": "17 x 20 = 340 cm2."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

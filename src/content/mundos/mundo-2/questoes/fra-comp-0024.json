@@ -1,0 +1,30 @@
+{
+  "id": "fra-comp-0024",
+  "subtipo": "comparacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual esta mais perto de 1: 9/10 ou 1/2?",
+    "en": "Which is closer to 1: 9/10 or 1/2?"
+  },
+  "opcoes": [
+    "8/10",
+    "1/2",
+    "9/10",
+    "9/11"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "9/10 so precisa de 1/10 para chegar a 1.",
+    "en": "9/10 needs only 1/10 to reach 1."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

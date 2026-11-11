@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0022",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve 5x - 9 = 16.",
+    "en": "Solve 5x - 9 = 16."
+  },
+  "opcoes": [
+    "6",
+    "16",
+    "5",
+    "25"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "5x = 25, logo x = 5.",
+    "en": "5x = 25, so x = 5."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

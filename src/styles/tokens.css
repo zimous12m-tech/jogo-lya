@@ -1,0 +1,29 @@
+:root {
+  --color-primary: #6c5ce7;
+  --color-primary-strong: #4834d4;
+  --color-primary-soft: #efeaff;
+  --color-secondary: #fdcb6e;
+  --color-success: #00b894;
+  --color-success-soft: #e3f7ee;
+  --color-error: #d63031;
+  --color-error-soft: #fdecea;
+  --color-ink: #2d3436;
+  --color-ink-soft: #636e72;
+  --color-surface: #fdfbf7;
+  --color-surface-raised: #ffffff;
+  --color-border: #dfe6e9;
+  --color-arena: #dff6ff;
+  --font-display: 'Fredoka', system-ui, sans-serif;
+  --font-reading: 'Inter', system-ui, sans-serif;
+  --font-scale: 1;
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 24px; --space-6: 32px;
+  --radius-sm: 8px; --radius-md: 12px; --radius-lg: 20px; --radius-pill: 999px;
+  --shadow-press: 0 3px 0 var(--color-primary-strong);
+  --focus-ring: 0 0 0 3px #74b9ff;
+  --tap: 48px;
+}
+:root[data-contrast='high'] {
+  --color-ink: #000; --color-ink-soft: #000; --color-surface: #fff; --color-surface-raised: #fff;
+  --color-border: #000; --color-primary: #3a0f9e; --focus-ring: 0 0 0 3px #000;
+}
+:root[data-dyslexia='on'] body { font-family: 'OpenDyslexic', 'Atkinson Hyperlegible', sans-serif; letter-spacing: 0.02em; }

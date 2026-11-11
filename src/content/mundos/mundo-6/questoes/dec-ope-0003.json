@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0003",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 6 + 1,8?",
+    "en": "What is 6 + 1.8?"
+  },
+  "opcoes": [
+    "7,8",
+    "4,2",
+    "8,8",
+    "9,8"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Alinha as virgulas: 6 + 1,8 = 7,8.",
+    "en": "Line up the points: 6 + 1.8 = 7.8."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

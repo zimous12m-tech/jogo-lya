@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0013",
+  "subtipo": "fracao-de-quantidade",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 3/5 de 15?",
+    "en": "What is 3/5 of 15?"
+  },
+  "opcoes": [
+    "9",
+    "3",
+    "10",
+    "6"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "15 / 5 x 3 = 9.",
+    "en": "15 / 5 x 3 = 9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

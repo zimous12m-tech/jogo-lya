@@ -1,0 +1,30 @@
+{
+  "id": "per-cal-0007",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 50 % de 60?",
+    "en": "What is 50 % of 60?"
+  },
+  "opcoes": [
+    "1.2",
+    "3000",
+    "30",
+    "35"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "60 / 100 x 50 = 30.",
+    "en": "60 / 100 x 50 = 30."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0016",
+  "subtipo": "subtracao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 3,2 - 1,4?",
+    "en": "What is 3.2 - 1.4?"
+  },
+  "opcoes": [
+    "4,6",
+    "1,8",
+    "1,4",
+    "2,8"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "3,2 - 1,4 = 1,8.",
+    "en": "3.2 - 1.4 = 1.8."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

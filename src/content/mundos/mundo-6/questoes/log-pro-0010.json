@@ -1,0 +1,30 @@
+{
+  "id": "log-pro-0010",
+  "subtipo": "deducao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "A e mais velha do que B e C e mais nova do que B. Quem e a mais velha?",
+    "en": "A is older than B and C is younger than B. Who is oldest?"
+  },
+  "opcoes": [
+    "A",
+    "B",
+    "Nao e possivel saber",
+    "C"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "A > B > C, logo A.",
+    "en": "A > B > C, so A."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "log-pro",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "logica",
+  "curriculo": [
+    "PT_6ano_MAT_LOGICA"
+  ]
+}

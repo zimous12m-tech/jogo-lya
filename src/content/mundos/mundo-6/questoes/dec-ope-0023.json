@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0023",
+  "subtipo": "multiplicacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 0,9 x 6?",
+    "en": "What is 0.9 x 6?"
+  },
+  "opcoes": [
+    "5,4",
+    "6,4",
+    "6,9",
+    "54"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "0,9 x 6 = 5,4.",
+    "en": "0.9 x 6 = 5.4."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

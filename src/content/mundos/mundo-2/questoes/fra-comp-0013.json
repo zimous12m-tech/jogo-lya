@@ -1,0 +1,30 @@
+{
+  "id": "fra-comp-0013",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e maior: 3/5 ou 4/5?",
+    "en": "Which is bigger: 3/5 or 4/5?"
+  },
+  "opcoes": [
+    "3/6",
+    "3/5",
+    "5/5",
+    "4/5"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Mesmo denominador, maior numerador: 4/5.",
+    "en": "Same denominator, bigger numerator: 4/5."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

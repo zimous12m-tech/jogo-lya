@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0014",
+  "subtipo": "subtracao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 7,4 - 2?",
+    "en": "What is 7.4 - 2?"
+  },
+  "opcoes": [
+    "5,4",
+    "9,4",
+    "2",
+    "6,4"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "7,4 - 2 = 5,4.",
+    "en": "7.4 - 2 = 5.4."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

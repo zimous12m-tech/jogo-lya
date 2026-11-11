@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0006",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 6,1 + 5?",
+    "en": "What is 6.1 + 5?"
+  },
+  "opcoes": [
+    "13,1",
+    "11,1",
+    "12,1",
+    "1,1"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Alinha as virgulas: 6,1 + 5 = 11,1.",
+    "en": "Line up the points: 6.1 + 5 = 11.1."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

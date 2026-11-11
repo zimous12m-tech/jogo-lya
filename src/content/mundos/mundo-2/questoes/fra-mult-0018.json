@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0018",
+  "subtipo": "contexto",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Um casaco custa 16 EUR com 6/8 de desconto. Quanto poupas?",
+    "en": "A coat costs 16 EUR with 6/8 off. How much do you save?"
+  },
+  "opcoes": [
+    "12",
+    "4",
+    "2",
+    "13"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "6/8 de 16 = 12 EUR.",
+    "en": "6/8 of 16 = 12 EUR."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

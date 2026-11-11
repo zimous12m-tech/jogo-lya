@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0008",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 28 - 14?",
+    "en": "What is 28 - 14?"
+  },
+  "opcoes": [
+    "-14",
+    "42",
+    "15",
+    "14"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "28 - 14 = 14.",
+    "en": "28 - 14 = 14."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

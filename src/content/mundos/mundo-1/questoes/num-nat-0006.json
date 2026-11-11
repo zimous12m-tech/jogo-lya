@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0006",
+  "subtipo": "valor-posicional",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "No numero 490839, qual e o valor do algarismo 3?",
+    "en": "In the number 490839, what is the value of the digit 3?"
+  },
+  "opcoes": [
+    "30",
+    "40",
+    "300",
+    "3"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "O 3 vale 30 porque esta nessa ordem.",
+    "en": "The 3 is worth 30 because of its place."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

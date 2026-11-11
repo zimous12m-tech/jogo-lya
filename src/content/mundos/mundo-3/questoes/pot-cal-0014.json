@@ -1,0 +1,30 @@
+{
+  "id": "pot-cal-0014",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 2 ao cubo?",
+    "en": "What is 2 cubed?"
+  },
+  "opcoes": [
+    "8",
+    "10",
+    "6",
+    "4"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "2 x 2 x 2 = 8.",
+    "en": "2 x 2 x 2 = 8."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ]
+}

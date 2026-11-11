@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0021",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve 5x - 1 = 14.",
+    "en": "Solve 5x - 1 = 14."
+  },
+  "opcoes": [
+    "4",
+    "3",
+    "15",
+    "14"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "5x = 15, logo x = 3.",
+    "en": "5x = 15, so x = 3."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

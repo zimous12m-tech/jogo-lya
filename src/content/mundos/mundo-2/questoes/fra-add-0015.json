@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0015",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 2/3 + 7/9?",
+    "en": "What is 2/3 + 7/9?"
+  },
+  "opcoes": [
+    "9/12",
+    "14/9",
+    "9/9",
+    "13/9"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Reduz ao mesmo denominador: 13/9.",
+    "en": "Use a common denominator: 13/9."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pot-cal-0020",
+  "subtipo": "raiz",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e a raiz quadrada de 25?",
+    "en": "What is the square root of 25?"
+  },
+  "opcoes": [
+    "5",
+    "25",
+    "6",
+    "10"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "5 x 5 = 25, logo a raiz e 5.",
+    "en": "5 x 5 = 25, so the root is 5."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0018",
+  "subtipo": "multiplicacao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 0,5 x 2?",
+    "en": "What is 0.5 x 2?"
+  },
+  "opcoes": [
+    "1",
+    "10",
+    "2,5",
+    "2"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "0,5 x 2 = 1.",
+    "en": "0.5 x 2 = 1."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

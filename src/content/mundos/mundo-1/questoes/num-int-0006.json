@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0006",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 16 - 5?",
+    "en": "What is 16 - 5?"
+  },
+  "opcoes": [
+    "21",
+    "-11",
+    "11",
+    "12"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "16 - 5 = 11.",
+    "en": "16 - 5 = 11."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

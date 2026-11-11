@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0015",
+  "subtipo": "simetrico",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e o simetrico de -21?",
+    "en": "What is the opposite of -21?"
+  },
+  "opcoes": [
+    "0",
+    "21",
+    "22",
+    "-21"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O simetrico e 21.",
+    "en": "The opposite is 21."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

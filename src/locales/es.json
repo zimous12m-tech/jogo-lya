@@ -1,0 +1,99 @@
+{
+  "common": {
+    "back": "Volver"
+  },
+  "app": {
+    "title": "Buho Matematico",
+    "subtitle": "Practica matematicas de 6.o con la Profesora Buho."
+  },
+  "world": {
+    "title": "Elige un mundo",
+    "progress": "{{done}} de {{total}} estrellas"
+  },
+  "level": {
+    "play": "Jugar",
+    "train": "Entrenar",
+    "stars": "{{count}} of 3 stars",
+    "bossSoon": "Jefe: pronto"
+  },
+  "game": {
+    "progress": "Question {{current}} of {{total}}",
+    "exit": "Leave",
+    "correct": "Bien!",
+    "wrong": "Casi. Lee la explicacion.",
+    "next": "Siguiente",
+    "finish": "Terminar",
+    "explanation": "Explanation",
+    "options": "Options",
+    "training": "Training",
+    "left": "Izquierda",
+    "right": "Derecha",
+    "jump": "Saltar",
+    "arena": "Game arena."
+  },
+  "complete": {
+    "title": "Level complete",
+    "score": "You got {{correct}} of {{total}}.",
+    "coins": "You earned {{count}} feathers.",
+    "trainingNote": "Training: stars do not count.",
+    "repeat": "Repeat",
+    "next": "Next level",
+    "map": "Back to map"
+  },
+  "settings": {
+    "open": "Settings",
+    "title": "Ajustes",
+    "sound": "Sonido",
+    "music": "Musica",
+    "timed": "Sin tiempo",
+    "buttonsOnly": "Solo botones",
+    "highContrast": "Alto contraste",
+    "dyslexia": "Dyslexia font",
+    "readOnlyMode": "Read only",
+    "textSize": "Text size",
+    "sizeNormal": "Normal",
+    "sizeLarge": "Large",
+    "sizeHuge": "Huge"
+  },
+  "profile": {
+    "title": "Perfil",
+    "coins": "{{count}} plumas",
+    "streak": "{{count}} dias",
+    "stars": "{{count}} estrellas"
+  },
+  "shop": {
+    "open": "Shop",
+    "title": "Tienda",
+    "buy": "Comprar",
+    "equip": "Equipar",
+    "own": "Tuyo",
+    "equipped": "Equipado",
+    "tab": {
+      "hat": "Sombreros",
+      "colour": "Colores"
+    }
+  },
+  "daily": {
+    "open": "Reto del dia"
+  },
+  "parents": {
+    "title": "Zona de padres",
+    "gate": "What is {{a}} x {{b}}?",
+    "gateError": "Wrong. Try again.",
+    "enter": "Entrar",
+    "report": "Informe",
+    "level": "Nivel",
+    "stars": "Estrellas",
+    "empty": "Sin niveles.",
+    "analytics": "Anonymous analytics"
+  },
+  "credits": {
+    "title": "Creditos",
+    "team": "Team",
+    "teamText": "Independent educational project.",
+    "tech": "Tech",
+    "techText": "Phaser, TypeScript, Vite, i18next, Zod.",
+    "privacy": "Privacy",
+    "privacyText": "No ads, no personal data."
+  }
+}

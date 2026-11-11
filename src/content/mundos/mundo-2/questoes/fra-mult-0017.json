@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0017",
+  "subtipo": "contexto",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Um casaco custa 20 EUR com 3/5 de desconto. Quanto poupas?",
+    "en": "A coat costs 20 EUR with 3/5 off. How much do you save?"
+  },
+  "opcoes": [
+    "4",
+    "8",
+    "13",
+    "12"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "3/5 de 20 = 12 EUR.",
+    "en": "3/5 of 20 = 12 EUR."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

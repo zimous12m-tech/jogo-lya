@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0006",
+  "subtipo": "multiplicacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 2/2 x 1/3?",
+    "en": "What is 2/2 x 1/3?"
+  },
+  "opcoes": [
+    "6/2",
+    "3/5",
+    "2/6",
+    "3/6"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Numeradores e denominadores entre si: 2/6.",
+    "en": "Numerators and denominators together: 2/6."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

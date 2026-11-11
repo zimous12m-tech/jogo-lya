@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0007",
+  "subtipo": "media",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e a media de 8, 7, 18, 15?",
+    "en": "What is the mean of 8, 7, 18, 15?"
+  },
+  "opcoes": [
+    "48",
+    "13",
+    "12",
+    "14"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "48 / 4 = 12.",
+    "en": "48 / 4 = 12."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

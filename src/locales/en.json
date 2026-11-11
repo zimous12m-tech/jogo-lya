@@ -1,0 +1,99 @@
+{
+  "common": {
+    "back": "Back"
+  },
+  "app": {
+    "title": "Owl Maths",
+    "subtitle": "Practise grade 6 maths with Professor Owl."
+  },
+  "world": {
+    "title": "Pick a world",
+    "progress": "{{done}} of {{total}} stars"
+  },
+  "level": {
+    "play": "Play",
+    "train": "Train",
+    "stars": "{{count}} of 3 stars",
+    "bossSoon": "Boss: soon"
+  },
+  "game": {
+    "progress": "Question {{current}} of {{total}}",
+    "exit": "Leave",
+    "correct": "Nice!",
+    "wrong": "Almost. Read the explanation.",
+    "next": "Next",
+    "finish": "Finish",
+    "explanation": "Explanation",
+    "options": "Options",
+    "training": "Training",
+    "left": "Left",
+    "right": "Right",
+    "jump": "Jump",
+    "arena": "Game arena."
+  },
+  "complete": {
+    "title": "Level complete",
+    "score": "You got {{correct}} of {{total}}.",
+    "coins": "You earned {{count}} feathers.",
+    "trainingNote": "Training: stars do not count.",
+    "repeat": "Repeat",
+    "next": "Next level",
+    "map": "Back to map"
+  },
+  "settings": {
+    "open": "Settings",
+    "title": "Settings",
+    "sound": "Sound",
+    "music": "Music",
+    "timed": "No timer",
+    "buttonsOnly": "Buttons only",
+    "highContrast": "High contrast",
+    "dyslexia": "Dyslexia font",
+    "readOnlyMode": "Read only",
+    "textSize": "Text size",
+    "sizeNormal": "Normal",
+    "sizeLarge": "Large",
+    "sizeHuge": "Huge"
+  },
+  "profile": {
+    "title": "Profile",
+    "coins": "{{count}} feathers",
+    "streak": "{{count}} days",
+    "stars": "{{count}} stars"
+  },
+  "shop": {
+    "open": "Shop",
+    "title": "Shop",
+    "buy": "Buy",
+    "equip": "Equip",
+    "own": "Owned",
+    "equipped": "Equipped",
+    "tab": {
+      "hat": "Hats",
+      "colour": "Colours"
+    }
+  },
+  "daily": {
+    "open": "Daily challenge"
+  },
+  "parents": {
+    "title": "Parent zone",
+    "gate": "What is {{a}} x {{b}}?",
+    "gateError": "Wrong. Try again.",
+    "enter": "Enter",
+    "report": "Progress report",
+    "level": "Level",
+    "stars": "Stars",
+    "empty": "No levels yet.",
+    "analytics": "Anonymous analytics"
+  },
+  "credits": {
+    "title": "Credits",
+    "team": "Team",
+    "teamText": "Independent educational project.",
+    "tech": "Tech",
+    "techText": "Phaser, TypeScript, Vite, i18next, Zod.",
+    "privacy": "Privacy",
+    "privacyText": "No ads, no personal data."
+  }
+}

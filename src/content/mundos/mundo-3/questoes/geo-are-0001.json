@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0001",
+  "subtipo": "area",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Um retangulo tem 7 cm por 7 cm. Qual e a area?",
+    "en": "A rectangle is 7 cm by 7 cm. What is the area?"
+  },
+  "opcoes": [
+    "49",
+    "56",
+    "14",
+    "28"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "7 x 7 = 49 cm2.",
+    "en": "7 x 7 = 49 cm2."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

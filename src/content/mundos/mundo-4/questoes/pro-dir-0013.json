@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0013",
+  "subtipo": "receita",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Uma receita para 2 leva 106 g. Quantos g para 4?",
+    "en": "A recipe for 2 uses 106 g. How many g for 4?"
+  },
+  "opcoes": [
+    "222",
+    "106",
+    "212",
+    "318"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Por pessoa 53 g, para 4 sao 212 g.",
+    "en": "Per person 53 g, for 4 it is 212 g."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

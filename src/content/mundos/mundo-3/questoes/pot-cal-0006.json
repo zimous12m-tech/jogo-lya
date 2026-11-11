@@ -1,0 +1,30 @@
+{
+  "id": "pot-cal-0006",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 7 ao quadrado?",
+    "en": "What is 7 squared?"
+  },
+  "opcoes": [
+    "49",
+    "14",
+    "9",
+    "56"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "7 x 7 = 49.",
+    "en": "7 x 7 = 49."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ]
+}

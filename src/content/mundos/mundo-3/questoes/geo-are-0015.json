@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0015",
+  "subtipo": "area",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um quadrado tem 9 cm de lado. Qual e a area?",
+    "en": "A square has 9 cm sides. What is the area?"
+  },
+  "opcoes": [
+    "90",
+    "36",
+    "81",
+    "18"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "9 x 9 = 81 cm2.",
+    "en": "9 x 9 = 81 cm2."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "prob-cal-0020",
+  "subtipo": "complementar",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um saco tem 6 vermelhas e 3 brancas. Probabilidade de NAO tirar vermelha?",
+    "en": "A bag has 6 red and 3 white. Probability of NOT red?"
+  },
+  "opcoes": [
+    "6/3",
+    "4/9",
+    "3/9",
+    "6/9"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "3 em 9: 3/9.",
+    "en": "3 out of 9: 3/9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ]
+}

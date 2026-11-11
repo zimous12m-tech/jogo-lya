@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0022",
+  "subtipo": "escala",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "No mapa, 4 cm representam 4 km. Quantos km representam 8 cm?",
+    "en": "On the map, 4 cm is 4 km. How many km is 8 cm?"
+  },
+  "opcoes": [
+    "16",
+    "8",
+    "4",
+    "9"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O dobro: 8 km.",
+    "en": "Double: 8 km."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

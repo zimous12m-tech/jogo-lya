@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0005",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 2/4 + 1/4?",
+    "en": "What is 2/4 + 1/4?"
+  },
+  "opcoes": [
+    "4/4",
+    "3/4",
+    "3/8",
+    "2/4"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Somam-se os numeradores: 3/4.",
+    "en": "Add the numerators: 3/4."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

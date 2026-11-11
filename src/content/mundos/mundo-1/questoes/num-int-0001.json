@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0001",
+  "subtipo": "soma",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 5 - 11?",
+    "en": "What is 5 - 11?"
+  },
+  "opcoes": [
+    "-5",
+    "-6",
+    "6",
+    "16"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "5 - 11 = -6.",
+    "en": "5 - 11 = -6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

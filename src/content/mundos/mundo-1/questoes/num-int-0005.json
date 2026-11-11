@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0005",
+  "subtipo": "soma",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 11 - 9?",
+    "en": "What is 11 - 9?"
+  },
+  "opcoes": [
+    "3",
+    "-2",
+    "2",
+    "20"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "11 - 9 = 2.",
+    "en": "11 - 9 = 2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

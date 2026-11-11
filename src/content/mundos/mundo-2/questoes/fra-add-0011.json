@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0011",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 3/4 + 6/8?",
+    "en": "What is 3/4 + 6/8?"
+  },
+  "opcoes": [
+    "9/12",
+    "9/8",
+    "12/8",
+    "13/8"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Reduz ao mesmo denominador: 12/8.",
+    "en": "Use a common denominator: 12/8."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0014",
+  "subtipo": "fracao-de-quantidade",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 2/8 de 16?",
+    "en": "What is 2/8 of 16?"
+  },
+  "opcoes": [
+    "12",
+    "2",
+    "4",
+    "5"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "16 / 8 x 2 = 4.",
+    "en": "16 / 8 x 2 = 4."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

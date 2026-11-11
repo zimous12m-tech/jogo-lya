@@ -1,0 +1,20 @@
+{
+  "id": "mundo-2",
+  "ordem": 2,
+  "nome": {
+    "pt-PT": "Cozinha das Fracoes",
+    "en": "Fraction Kitchen"
+  },
+  "descricao": {
+    "pt-PT": "Fracoes e equacoes.",
+    "en": "Fractions and equations."
+  },
+  "tema": "fracoes",
+  "cor": "#ff9e33",
+  "corSuave": "#fff1df",
+  "icone": "fracoes",
+  "topicos": [
+    "fracoes",
+    "equacoes"
+  ]
+}

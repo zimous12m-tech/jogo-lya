@@ -1,0 +1,30 @@
+{
+  "id": "num-int-0009",
+  "subtipo": "simetrico",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Qual e o simetrico de -17?",
+    "en": "What is the opposite of -17?"
+  },
+  "opcoes": [
+    "-17",
+    "0",
+    "17",
+    "18"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O simetrico e 17.",
+    "en": "The opposite is 17."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ]
+}

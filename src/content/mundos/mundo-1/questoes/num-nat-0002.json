@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0002",
+  "subtipo": "valor-posicional",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "No numero 43848, qual e o valor do algarismo 3?",
+    "en": "In the number 43848, what is the value of the digit 3?"
+  },
+  "opcoes": [
+    "4000",
+    "30000",
+    "3",
+    "3000"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 3 vale 3000 porque esta nessa ordem.",
+    "en": "The 3 is worth 3000 because of its place."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

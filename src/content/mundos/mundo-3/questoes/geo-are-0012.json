@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0012",
+  "subtipo": "area",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um quadrado tem 12 cm de lado. Qual e a area?",
+    "en": "A square has 12 cm sides. What is the area?"
+  },
+  "opcoes": [
+    "48",
+    "156",
+    "144",
+    "24"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "12 x 12 = 144 cm2.",
+    "en": "12 x 12 = 144 cm2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

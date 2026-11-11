@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0015",
+  "subtipo": "arredondamento",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Arredonda 2538 as dezenas.",
+    "en": "Round 2538 to the nearest ten."
+  },
+  "opcoes": [
+    "2550",
+    "2540",
+    "2538",
+    "2530"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O resultado e 2540.",
+    "en": "The result is 2540."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

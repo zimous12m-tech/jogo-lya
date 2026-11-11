@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0010",
+  "subtipo": "arredondamento",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Arredonda 639 as dezenas.",
+    "en": "Round 639 to the nearest ten."
+  },
+  "opcoes": [
+    "630",
+    "650",
+    "640",
+    "639"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O resultado e 640.",
+    "en": "The result is 640."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mundo-5",
+  "ordem": 5,
+  "nome": {
+    "pt-PT": "Observatorio de Dados",
+    "en": "Data Observatory"
+  },
+  "descricao": {
+    "pt-PT": "Media e probabilidades.",
+    "en": "Means and probability."
+  },
+  "tema": "estatistica",
+  "cor": "#0e9aa7",
+  "corSuave": "#e2f6f8",
+  "icone": "estatistica",
+  "topicos": [
+    "estatistica",
+    "probabilidades"
+  ]
+}

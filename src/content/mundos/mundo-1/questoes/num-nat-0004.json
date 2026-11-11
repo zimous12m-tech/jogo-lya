@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0004",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "No numero 64175, qual e o valor do algarismo 4?",
+    "en": "In the number 64175, what is the value of the digit 4?"
+  },
+  "opcoes": [
+    "4",
+    "40000",
+    "5000",
+    "4000"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 4 vale 4000 porque esta nessa ordem.",
+    "en": "The 4 is worth 4000 because of its place."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

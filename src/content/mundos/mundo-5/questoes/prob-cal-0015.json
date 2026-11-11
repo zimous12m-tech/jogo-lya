@@ -1,0 +1,30 @@
+{
+  "id": "prob-cal-0015",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um saco tem 5 verdes e 3 azuis. Probabilidade de tirar verde?",
+    "en": "A bag has 5 green and 3 blue. Probability of green?"
+  },
+  "opcoes": [
+    "5/3",
+    "3/8",
+    "6/8",
+    "5/8"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "5 casos favoraveis em 8: 5/8.",
+    "en": "5 favourable in 8: 5/8."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ]
+}

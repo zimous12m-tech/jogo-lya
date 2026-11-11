@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0012",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve 6x + 9 = 69.",
+    "en": "Solve 6x + 9 = 69."
+  },
+  "opcoes": [
+    "10",
+    "11",
+    "69",
+    "60"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "6x = 60, logo x = 10.",
+    "en": "6x = 60, so x = 10."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

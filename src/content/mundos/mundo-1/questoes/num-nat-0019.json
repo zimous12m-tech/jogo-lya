@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0019",
+  "subtipo": "divisibilidade",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual destes numeros e divisivel por 5?",
+    "en": "Which of these numbers is divisible by 5?"
+  },
+  "opcoes": [
+    "305",
+    "302",
+    "300",
+    "301"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "300 / 5 = 60, sem resto.",
+    "en": "300 / 5 = 60, no remainder."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

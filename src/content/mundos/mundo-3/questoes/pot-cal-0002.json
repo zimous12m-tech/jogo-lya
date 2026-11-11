@@ -1,0 +1,30 @@
+{
+  "id": "pot-cal-0002",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 8 ao quadrado?",
+    "en": "What is 8 squared?"
+  },
+  "opcoes": [
+    "72",
+    "16",
+    "10",
+    "64"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "8 x 8 = 64.",
+    "en": "8 x 8 = 64."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0021",
+  "subtipo": "contexto",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um casaco custa 24 EUR com 2/8 de desconto. Quanto poupas?",
+    "en": "A coat costs 24 EUR with 2/8 off. How much do you save?"
+  },
+  "opcoes": [
+    "7",
+    "6",
+    "3",
+    "18"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "2/8 de 24 = 6 EUR.",
+    "en": "2/8 of 24 = 6 EUR."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

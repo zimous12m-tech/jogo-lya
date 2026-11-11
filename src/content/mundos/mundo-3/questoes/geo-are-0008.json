@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0008",
+  "subtipo": "area",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um retangulo tem 13 cm por 15 cm. Qual e a area?",
+    "en": "A rectangle is 13 cm by 15 cm. What is the area?"
+  },
+  "opcoes": [
+    "56",
+    "195",
+    "28",
+    "208"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "13 x 15 = 195 cm2.",
+    "en": "13 x 15 = 195 cm2."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

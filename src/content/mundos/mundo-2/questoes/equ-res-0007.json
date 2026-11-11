@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0007",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve x + 14 = 22.",
+    "en": "Solve x + 14 = 22."
+  },
+  "opcoes": [
+    "9",
+    "8",
+    "36",
+    "22"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "x = 22 - 14 = 8.",
+    "en": "x = 22 - 14 = 8."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

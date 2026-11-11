@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0005",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "No numero 97526, qual e o valor do algarismo 9?",
+    "en": "In the number 97526, what is the value of the digit 9?"
+  },
+  "opcoes": [
+    "100000",
+    "9",
+    "90000",
+    "900000"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O 9 vale 90000 porque esta nessa ordem.",
+    "en": "The 9 is worth 90000 because of its place."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pot-cal-0017",
+  "subtipo": "raiz",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Qual e a raiz quadrada de 121?",
+    "en": "What is the square root of 121?"
+  },
+  "opcoes": [
+    "121",
+    "12",
+    "11",
+    "22"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "11 x 11 = 121, logo a raiz e 11.",
+    "en": "11 x 11 = 121, so the root is 11."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ]
+}

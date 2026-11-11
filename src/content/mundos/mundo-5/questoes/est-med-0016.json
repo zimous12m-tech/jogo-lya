@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0016",
+  "subtipo": "moda",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e a moda de 15, 15, 20, 24?",
+    "en": "What is the mode of 15, 15, 20, 24?"
+  },
+  "opcoes": [
+    "24",
+    "16",
+    "20",
+    "15"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "A moda e 15, o valor mais repetido.",
+    "en": "The mode is 15, the most frequent."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0003",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve x + 16 = 27.",
+    "en": "Solve x + 16 = 27."
+  },
+  "opcoes": [
+    "43",
+    "12",
+    "27",
+    "11"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "x = 27 - 16 = 11.",
+    "en": "x = 27 - 16 = 11."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

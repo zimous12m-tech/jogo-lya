@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0006",
+  "subtipo": "media",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual e a media de 6, 7, 18, 9?",
+    "en": "What is the mean of 6, 7, 18, 9?"
+  },
+  "opcoes": [
+    "40",
+    "10",
+    "11",
+    "12"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "40 / 4 = 10.",
+    "en": "40 / 4 = 10."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

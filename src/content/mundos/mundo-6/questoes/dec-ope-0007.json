@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0007",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 1,9 + 4,8?",
+    "en": "What is 1.9 + 4.8?"
+  },
+  "opcoes": [
+    "7,7",
+    "8,7",
+    "6,7",
+    "2,9"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Alinha as virgulas: 1,9 + 4,8 = 6,7.",
+    "en": "Line up the points: 1.9 + 4.8 = 6.7."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

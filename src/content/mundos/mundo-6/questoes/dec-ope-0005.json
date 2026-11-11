@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0005",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 7,5 + 6,9?",
+    "en": "What is 7.5 + 6.9?"
+  },
+  "opcoes": [
+    "14,4",
+    "16,4",
+    "15,4",
+    "0,6"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Alinha as virgulas: 7,5 + 6,9 = 14,4.",
+    "en": "Line up the points: 7.5 + 6.9 = 14.4."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

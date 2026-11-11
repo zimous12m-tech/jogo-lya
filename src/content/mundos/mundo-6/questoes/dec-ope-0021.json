@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0021",
+  "subtipo": "multiplicacao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 0,3 x 3?",
+    "en": "What is 0.3 x 3?"
+  },
+  "opcoes": [
+    "9",
+    "0,9",
+    "1,9",
+    "3,3"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "0,3 x 3 = 0,9.",
+    "en": "0.3 x 3 = 0.9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

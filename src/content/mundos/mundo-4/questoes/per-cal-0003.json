@@ -1,0 +1,30 @@
+{
+  "id": "per-cal-0003",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 50 % de 80?",
+    "en": "What is 50 % of 80?"
+  },
+  "opcoes": [
+    "45",
+    "1.6",
+    "40",
+    "4000"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "80 / 100 x 50 = 40.",
+    "en": "80 / 100 x 50 = 40."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

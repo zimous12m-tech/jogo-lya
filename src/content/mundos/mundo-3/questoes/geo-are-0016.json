@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0016",
+  "subtipo": "area",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um quadrado tem 8 cm de lado. Qual e a area?",
+    "en": "A square has 8 cm sides. What is the area?"
+  },
+  "opcoes": [
+    "16",
+    "72",
+    "64",
+    "32"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "8 x 8 = 64 cm2.",
+    "en": "8 x 8 = 64 cm2."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

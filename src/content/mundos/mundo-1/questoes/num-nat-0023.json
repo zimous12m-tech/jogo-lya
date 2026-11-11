@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0023",
+  "subtipo": "divisibilidade",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual destes numeros e divisivel por 5?",
+    "en": "Which of these numbers is divisible by 5?"
+  },
+  "opcoes": [
+    "267",
+    "270",
+    "266",
+    "265"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "265 / 5 = 53, sem resto.",
+    "en": "265 / 5 = 53, no remainder."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

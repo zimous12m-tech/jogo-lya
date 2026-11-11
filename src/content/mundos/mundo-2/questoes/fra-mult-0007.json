@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0007",
+  "subtipo": "multiplicacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 3/3 x 3/6?",
+    "en": "What is 3/3 x 3/6?"
+  },
+  "opcoes": [
+    "6/9",
+    "18/9",
+    "10/18",
+    "9/18"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Numeradores e denominadores entre si: 9/18.",
+    "en": "Numerators and denominators together: 9/18."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

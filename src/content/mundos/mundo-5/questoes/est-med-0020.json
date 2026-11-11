@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0020",
+  "subtipo": "mediana",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e a mediana de 9, 11, 13, 15, 17?",
+    "en": "What is the median of 9, 11, 13, 15, 17?"
+  },
+  "opcoes": [
+    "14",
+    "13",
+    "17",
+    "9"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O valor do meio e 13.",
+    "en": "The middle value is 13."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

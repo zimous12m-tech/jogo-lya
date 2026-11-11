@@ -1,0 +1,30 @@
+{
+  "id": "pot-cal-0001",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 4 ao quadrado?",
+    "en": "What is 4 squared?"
+  },
+  "opcoes": [
+    "16",
+    "8",
+    "20",
+    "6"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "4 x 4 = 16.",
+    "en": "4 x 4 = 16."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ]
+}

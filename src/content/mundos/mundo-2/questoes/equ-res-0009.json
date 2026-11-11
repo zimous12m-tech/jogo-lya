@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0009",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Resolve 2x + 4 = 14.",
+    "en": "Solve 2x + 4 = 14."
+  },
+  "opcoes": [
+    "10",
+    "14",
+    "6",
+    "5"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "2x = 10, logo x = 5.",
+    "en": "2x = 10, so x = 5."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

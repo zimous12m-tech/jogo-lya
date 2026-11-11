@@ -1,0 +1,35 @@
+{
+  "id": "per-cal-0015",
+  "subtipo": "desconto",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um casaco custa 80 EUR com 25 % de desconto. Quanto pagas?",
+    "en": "A coat costs 80 EUR with 25 % off. How much do you pay?"
+  },
+  "visual": {
+    "tipo": "desconto",
+    "precoCentimos": 8000,
+    "percentagem": 25
+  },
+  "opcoes": [
+    "65",
+    "60",
+    "100",
+    "20"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "80 - 20 = 60 EUR.",
+    "en": "80 - 20 = 60 EUR."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ]
+}

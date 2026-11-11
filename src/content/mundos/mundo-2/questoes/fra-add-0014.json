@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0014",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 2/3 + 2/6?",
+    "en": "What is 2/3 + 2/6?"
+  },
+  "opcoes": [
+    "4/6",
+    "6/6",
+    "4/9",
+    "7/6"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Reduz ao mesmo denominador: 6/6.",
+    "en": "Use a common denominator: 6/6."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

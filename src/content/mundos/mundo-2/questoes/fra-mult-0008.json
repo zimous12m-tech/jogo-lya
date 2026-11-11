@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0008",
+  "subtipo": "multiplicacao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 1/6 x 4/3?",
+    "en": "What is 1/6 x 4/3?"
+  },
+  "opcoes": [
+    "5/18",
+    "5/9",
+    "4/18",
+    "3/24"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Numeradores e denominadores entre si: 4/18.",
+    "en": "Numerators and denominators together: 4/18."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

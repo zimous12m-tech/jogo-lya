@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pt"><head><meta charset="UTF-8"><title>Laboratorio Magico - legado</title>
+<style>body{font-family:sans-serif;background:#1e3c72;color:#fff;display:flex;justify-content:center;padding:40px}
+.jogo{background:#fdfbf7;color:#2d3436;border-radius:20px;padding:24px;max-width:600px}
+.opcao{display:block;width:100%;margin:8px 0;padding:12px;border-radius:10px;border:0;background:#6c5ce7;color:#fff;font-size:1em}</style></head>
+<body><div class="jogo"><h1>Laboratorio Magico (legado)</h1><p>Prototipo original com 12 perguntas.</p>
+<div id="p"></div><div id="o"></div><div id="e"></div></div>
+<script>
+var cenas=[
+{p:"1/2 + 1/4 = ?",o:["2/6","3/4","2/4","1/6"],r:1,e:"1/2 = 2/4, logo 3/4."},
+{p:"80 EUR com 25% de desconto?",o:["60","55","65","20"],r:0,e:"80-20=60."},
+{p:"-3 C sobe 7 C?",o:["-10","4","-4","10"],r:1,e:"-3+7=4."},
+{p:"3x+5=20, x=?",o:["3","5","7","15"],r:1,e:"3x=15, x=5."},
+{p:"Area 8x5?",o:["13","26","40","80"],r:2,e:"8x5=40."},
+{p:"4 bolos=12 ovos, 6 bolos=?",o:["14","16","18","24"],r:2,e:"1 bolo=3, 6x3=18."},
+{p:"Media de 12,15,18,15?",o:["14","15","16","17"],r:1,e:"60/4=15."},
+{p:"Qual e maior: 3/4 ou 5/8?",o:["3/4","5/8","iguais","?"],r:0,e:"3/4=6/8."},
+{p:"2 elevado a 5?",o:["10","25","32","64"],r:2,e:"2x2x2x2x2=32."},
+{p:"120 EUR menos 30%?",o:["36","84","90","100"],r:1,e:"120-36=84."},
+{p:"Perimetro de quadrado de lado 7?",o:["14","21","28","49"],r:2,e:"4x7=28."},
+{p:"x+2x=27, x=?",o:["7","9","13","18"],r:1,e:"3x=27, x=9."}];
+var i=0;function r(){var c=cenas[i];document.getElementById("p").textContent=c.p;
+var o=document.getElementById("o");o.innerHTML="";c.o.forEach(function(t,j){var b=document.createElement("button");
+b.className="opcao";b.textContent=t;b.onclick=function(){document.getElementById("e").textContent=c.e;
+setTimeout(function(){i++;if(i<cenas.length)r();else{document.getElementById("p").textContent="Fim!";o.innerHTML="";}},1200);};
+o.appendChild(b);});}r();
+</script></body></html>

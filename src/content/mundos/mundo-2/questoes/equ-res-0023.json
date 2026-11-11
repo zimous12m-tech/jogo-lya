@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0023",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Resolve 6x - 4 = 14.",
+    "en": "Solve 6x - 4 = 14."
+  },
+  "opcoes": [
+    "14",
+    "18",
+    "4",
+    "3"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "6x = 18, logo x = 3.",
+    "en": "6x = 18, so x = 3."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

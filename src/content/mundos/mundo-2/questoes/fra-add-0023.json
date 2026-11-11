@@ -1,0 +1,35 @@
+{
+  "id": "fra-add-0023",
+  "subtipo": "contexto",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "O Tomas comeu 4/8 de um bolo e a irma 4/8. Que fracao comeram juntos?",
+    "en": "Tom ate 4/8 of a cake and his sister 4/8. What fraction together?"
+  },
+  "visual": {
+    "tipo": "pizza",
+    "fatias": 8,
+    "comidas": 8
+  },
+  "opcoes": [
+    "16/8",
+    "9/8",
+    "8/16",
+    "8/8"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "4/8 + 4/8 = 8/8.",
+    "en": "4/8 + 4/8 = 8/8."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

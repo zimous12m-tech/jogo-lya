@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0001",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 7,1 + 6,4?",
+    "en": "What is 7.1 + 6.4?"
+  },
+  "opcoes": [
+    "0,7",
+    "14,5",
+    "13,5",
+    "15,5"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Alinha as virgulas: 7,1 + 6,4 = 13,5.",
+    "en": "Line up the points: 7.1 + 6.4 = 13.5."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

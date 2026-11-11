@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0009",
+  "subtipo": "fracao-de-quantidade",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 7/10 de 50?",
+    "en": "What is 7/10 of 50?"
+  },
+  "opcoes": [
+    "15",
+    "5",
+    "35",
+    "36"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "50 / 10 x 7 = 35.",
+    "en": "50 / 10 x 7 = 35."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

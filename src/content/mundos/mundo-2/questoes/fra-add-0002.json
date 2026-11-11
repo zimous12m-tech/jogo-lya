@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0002",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 4/6 + 2/6?",
+    "en": "What is 4/6 + 2/6?"
+  },
+  "opcoes": [
+    "7/6",
+    "6/6",
+    "8/6",
+    "6/12"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Somam-se os numeradores: 6/6.",
+    "en": "Add the numerators: 6/6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

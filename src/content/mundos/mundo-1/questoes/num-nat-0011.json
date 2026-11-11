@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0011",
+  "subtipo": "arredondamento",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Arredonda 1149 as dezenas.",
+    "en": "Round 1149 to the nearest ten."
+  },
+  "opcoes": [
+    "1150",
+    "1140",
+    "1149",
+    "1160"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "O resultado e 1150.",
+    "en": "The result is 1150."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "common": {
+    "back": "Voltar"
+  },
+  "app": {
+    "title": "Coruja Matematica",
+    "subtitle": "Treina matematica do 6.o ano com a Professora Coruja."
+  },
+  "world": {
+    "title": "Escolhe um mundo",
+    "progress": "{{done}} de {{total}} estrelas"
+  },
+  "level": {
+    "play": "Jogar",
+    "train": "Treinar",
+    "stars": "{{count}} de 3 estrelas",
+    "bossSoon": "Boss: em breve"
+  },
+  "game": {
+    "progress": "Pergunta {{current}} de {{total}}",
+    "exit": "Sair",
+    "correct": "Boa! Acertaste.",
+    "wrong": "Quase. Ve a explicacao.",
+    "next": "Proxima",
+    "finish": "Terminar",
+    "explanation": "Explicacao",
+    "options": "Opcoes",
+    "training": "Treino",
+    "left": "Esquerda",
+    "right": "Direita",
+    "jump": "Saltar",
+    "arena": "Arena de jogo."
+  },
+  "complete": {
+    "title": "Nivel completo",
+    "score": "Acertaste {{correct}} de {{total}}.",
+    "coins": "Ganhaste {{count}} penas.",
+    "trainingNote": "Modo treino: as estrelas nao contam.",
+    "repeat": "Repetir",
+    "next": "Proximo nivel",
+    "map": "Voltar ao mapa"
+  },
+  "settings": {
+    "open": "Definicoes",
+    "title": "Definicoes",
+    "sound": "Som",
+    "music": "Musica",
+    "timed": "Sem tempo",
+    "buttonsOnly": "So botoes",
+    "highContrast": "Alto contraste",
+    "dyslexia": "Fonte dislexia",
+    "readOnlyMode": "Somente leitura",
+    "textSize": "Tamanho do texto",
+    "sizeNormal": "Normal",
+    "sizeLarge": "Grande",
+    "sizeHuge": "Muito grande"
+  },
+  "profile": {
+    "title": "Perfil",
+    "coins": "{{count}} penas",
+    "streak": "{{count}} dias",
+    "stars": "{{count}} estrelas"
+  },
+  "shop": {
+    "open": "Loja",
+    "title": "Loja",
+    "buy": "Comprar",
+    "equip": "Equipar",
+    "own": "Teu",
+    "equipped": "Equipado",
+    "tab": {
+      "hat": "Chapeus",
+      "colour": "Cores"
+    }
+  },
+  "daily": {
+    "open": "Desafio do dia"
+  },
+  "parents": {
+    "title": "Zona de pais",
+    "gate": "Quanto e {{a}} x {{b}}?",
+    "gateError": "Errado. Tenta de novo.",
+    "enter": "Entrar",
+    "report": "Relatorio",
+    "level": "Nivel",
+    "stars": "Estrelas",
+    "empty": "Sem niveis concluidos.",
+    "analytics": "Estatisticas anonimas"
+  },
+  "credits": {
+    "title": "Creditos",
+    "team": "Equipa",
+    "teamText": "Projeto educativo independente.",
+    "tech": "Tecnologias",
+    "techText": "Phaser, TypeScript, Vite, i18next, Zod.",
+    "privacy": "Privacidade",
+    "privacyText": "Sem anuncios nem dados pessoais."
+  }
+}

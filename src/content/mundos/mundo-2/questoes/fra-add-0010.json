@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0010",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Quanto e 1/4 + 3/12?",
+    "en": "What is 1/4 + 3/12?"
+  },
+  "opcoes": [
+    "6/12",
+    "7/12",
+    "4/16",
+    "4/12"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Reduz ao mesmo denominador: 6/12.",
+    "en": "Use a common denominator: 6/12."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

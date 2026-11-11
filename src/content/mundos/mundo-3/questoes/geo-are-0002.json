@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0002",
+  "subtipo": "area",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Um retangulo tem 10 cm por 9 cm. Qual e a area?",
+    "en": "A rectangle is 10 cm by 9 cm. What is the area?"
+  },
+  "opcoes": [
+    "100",
+    "19",
+    "90",
+    "38"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "10 x 9 = 90 cm2.",
+    "en": "10 x 9 = 90 cm2."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

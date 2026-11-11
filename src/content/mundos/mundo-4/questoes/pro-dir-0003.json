@@ -1,0 +1,30 @@
+{
+  "id": "pro-dir-0003",
+  "subtipo": "direta",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Se 5 cadernos custam 10 EUR, quanto custam 8?",
+    "en": "If 5 notebooks cost 10 EUR, how much do 8 cost?"
+  },
+  "opcoes": [
+    "10",
+    "16",
+    "14",
+    "18"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Um custa 2 EUR, 8 custam 16 EUR.",
+    "en": "One costs 2 EUR, 8 cost 16 EUR."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ],
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ]
+}

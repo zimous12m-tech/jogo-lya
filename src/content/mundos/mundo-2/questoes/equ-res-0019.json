@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0019",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve 5x - 9 = 11.",
+    "en": "Solve 5x - 9 = 11."
+  },
+  "opcoes": [
+    "5",
+    "20",
+    "11",
+    "4"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "5x = 20, logo x = 4.",
+    "en": "5x = 20, so x = 4."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

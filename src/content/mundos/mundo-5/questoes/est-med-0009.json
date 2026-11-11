@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0009",
+  "subtipo": "moda",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Qual e a moda de 7, 7, 12, 16?",
+    "en": "What is the mode of 7, 7, 12, 16?"
+  },
+  "opcoes": [
+    "7",
+    "8",
+    "16",
+    "12"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "A moda e 7, o valor mais repetido.",
+    "en": "The mode is 7, the most frequent."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

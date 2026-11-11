@@ -1,0 +1,17 @@
+{
+  "id": "mundo-4-nivel-3",
+  "worldId": "mundo-4",
+  "titulo": {
+    "pt-PT": "Nivel 3",
+    "en": "Level 3"
+  },
+  "boss": false,
+  "tempoSugerido": 195,
+  "questionIds": [
+    "per-cal-0011",
+    "per-cal-0012",
+    "per-cal-0013",
+    "per-cal-0014",
+    "per-cal-0015"
+  ]
+}

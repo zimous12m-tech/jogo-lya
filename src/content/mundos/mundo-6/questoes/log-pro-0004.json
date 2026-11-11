@@ -1,0 +1,30 @@
+{
+  "id": "log-pro-0004",
+  "subtipo": "ordem",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Numa fila, a Ana e a 5.a e o Rui o 11.o. Quantos estao entre eles?",
+    "en": "In a queue Ana is 5th and Rui 11th. How many are between?"
+  },
+  "opcoes": [
+    "4",
+    "5",
+    "7",
+    "6"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Entre eles estao 5 pessoas.",
+    "en": "Between them are 5 people."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "log-pro",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "logica",
+  "curriculo": [
+    "PT_6ano_MAT_LOGICA"
+  ]
+}

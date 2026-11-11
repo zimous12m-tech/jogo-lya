@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0001",
+  "subtipo": "valor-posicional",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "No numero 91856, qual e o valor do algarismo 5?",
+    "en": "In the number 91856, what is the value of the digit 5?"
+  },
+  "opcoes": [
+    "500",
+    "60",
+    "5",
+    "50"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 5 vale 50 porque esta nessa ordem.",
+    "en": "The 5 is worth 50 because of its place."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

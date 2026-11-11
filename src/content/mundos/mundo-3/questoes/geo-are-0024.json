@@ -1,0 +1,30 @@
+{
+  "id": "geo-are-0024",
+  "subtipo": "area",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Um triangulo tem base 8 cm e altura 5 cm. Qual e a area?",
+    "en": "A triangle has base 8 cm and height 5 cm. What is the area?"
+  },
+  "opcoes": [
+    "40",
+    "21",
+    "20",
+    "13"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "8 x 5 / 2 = 20 cm2.",
+    "en": "8 x 5 / 2 = 20 cm2."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ],
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ]
+}

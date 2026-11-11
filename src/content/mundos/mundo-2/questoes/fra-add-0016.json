@@ -1,0 +1,30 @@
+{
+  "id": "fra-add-0016",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Quanto e 2/4 + 10/12?",
+    "en": "What is 2/4 + 10/12?"
+  },
+  "opcoes": [
+    "12/12",
+    "12/16",
+    "17/12",
+    "16/12"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Reduz ao mesmo denominador: 16/12.",
+    "en": "Use a common denominator: 16/12."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

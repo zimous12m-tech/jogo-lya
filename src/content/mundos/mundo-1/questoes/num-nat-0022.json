@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0022",
+  "subtipo": "divisibilidade",
+  "dificuldade": 3,
+  "pergunta": {
+    "pt-PT": "Qual destes numeros e divisivel por 3?",
+    "en": "Which of these numbers is divisible by 3?"
+  },
+  "opcoes": [
+    "77",
+    "75",
+    "78",
+    "76"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "75 / 3 = 25, sem resto.",
+    "en": "75 / 3 = 25, no remainder."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

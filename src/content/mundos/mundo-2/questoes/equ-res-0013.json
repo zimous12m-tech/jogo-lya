@@ -1,0 +1,30 @@
+{
+  "id": "equ-res-0013",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Resolve 5x + 6 = 16.",
+    "en": "Solve 5x + 6 = 16."
+  },
+  "opcoes": [
+    "3",
+    "10",
+    "16",
+    "2"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "5x = 10, logo x = 2.",
+    "en": "5x = 10, so x = 2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ]
+}

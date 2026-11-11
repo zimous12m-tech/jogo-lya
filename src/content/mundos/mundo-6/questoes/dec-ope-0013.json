@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0013",
+  "subtipo": "subtracao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 5,5 - 2,4?",
+    "en": "What is 5.5 - 2.4?"
+  },
+  "opcoes": [
+    "4,1",
+    "3,1",
+    "7,9",
+    "2,4"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "5,5 - 2,4 = 3,1.",
+    "en": "5.5 - 2.4 = 3.1."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}

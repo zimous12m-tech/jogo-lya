@@ -1,0 +1,30 @@
+{
+  "id": "est-med-0002",
+  "subtipo": "media",
+  "dificuldade": 1,
+  "pergunta": {
+    "pt-PT": "Qual e a media de 9, 14, 8, 9?",
+    "en": "What is the mean of 9, 14, 8, 9?"
+  },
+  "opcoes": [
+    "40",
+    "11",
+    "12",
+    "10"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "40 / 4 = 10.",
+    "en": "40 / 4 = 10."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "est-med",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fra-mult-0011",
+  "subtipo": "fracao-de-quantidade",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 2/8 de 24?",
+    "en": "What is 2/8 of 24?"
+  },
+  "opcoes": [
+    "18",
+    "6",
+    "7",
+    "3"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "24 / 8 x 2 = 6.",
+    "en": "24 / 8 x 2 = 6."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

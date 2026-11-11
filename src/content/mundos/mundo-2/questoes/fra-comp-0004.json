@@ -1,0 +1,41 @@
+{
+  "id": "fra-comp-0004",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual e maior: 1/8 ou 1/16?",
+    "en": "Which is bigger: 1/8 or 1/16?"
+  },
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 1,
+      "d": 8
+    },
+    "b": {
+      "n": 1,
+      "d": 16
+    }
+  },
+  "opcoes": [
+    "1/8",
+    "1/17",
+    "1/16",
+    "2/8"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Mesmo numerador, menor denominador e maior: 1/8.",
+    "en": "Same numerator, smaller denominator is bigger: 1/8."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ]
+}

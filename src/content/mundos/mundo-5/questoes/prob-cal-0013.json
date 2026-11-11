@@ -1,0 +1,30 @@
+{
+  "id": "prob-cal-0013",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Um saco tem 7 verdes e 2 azuis. Probabilidade de tirar verde?",
+    "en": "A bag has 7 green and 2 blue. Probability of green?"
+  },
+  "opcoes": [
+    "2/9",
+    "7/9",
+    "8/9",
+    "7/2"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "7 casos favoraveis em 9: 7/9.",
+    "en": "7 favourable in 9: 7/9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ],
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ]
+}

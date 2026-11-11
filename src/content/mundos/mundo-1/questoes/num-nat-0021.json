@@ -1,0 +1,30 @@
+{
+  "id": "num-nat-0021",
+  "subtipo": "divisibilidade",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Qual destes numeros e divisivel por 5?",
+    "en": "Which of these numbers is divisible by 5?"
+  },
+  "opcoes": [
+    "241",
+    "245",
+    "240",
+    "242"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "240 / 5 = 48, sem resto.",
+    "en": "240 / 5 = 48, no remainder."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ],
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ]
+}

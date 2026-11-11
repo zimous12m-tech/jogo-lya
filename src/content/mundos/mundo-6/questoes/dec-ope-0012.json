@@ -1,0 +1,30 @@
+{
+  "id": "dec-ope-0012",
+  "subtipo": "subtracao",
+  "dificuldade": 2,
+  "pergunta": {
+    "pt-PT": "Quanto e 4,9 - 1,9?",
+    "en": "What is 4.9 - 1.9?"
+  },
+  "opcoes": [
+    "3",
+    "6,8",
+    "1,9",
+    "4"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "4,9 - 1,9 = 3.",
+    "en": "4.9 - 1.9 = 3."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ],
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ]
+}
